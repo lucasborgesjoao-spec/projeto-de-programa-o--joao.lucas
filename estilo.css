@@ -28,6 +28,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    background-color: gray;
 }
 
 main {
@@ -36,5 +37,18 @@ main {
 
 .cabecalho-link{
 
-    
+ color: darkslategrey;   
+text-decoration: none;
+}
+
+h1{
+    color: darkcyan;
+    font: size 18px;
+}
+
+
+footer{
+    background-color: rgb(13, 48, 39);
+    padding: 15px 25px;
+    background-color: royalblue;
 }
