@@ -52,3 +52,12 @@ footer{
     padding: 15px 25px;
     background-color: royalblue;
 }
+
+.cartao-interno{
+    position: relative;
+}
+
+.cartao-frente, .cartao-verso{
+    position: absolute;
+    
+}
